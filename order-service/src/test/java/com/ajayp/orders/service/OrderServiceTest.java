@@ -1,5 +1,6 @@
 package com.ajayp.orders.service;
-import com.ajayp.orders.domain.*;
+import com.ajayp.orders.domain.Order;
+import com.ajayp.orders.domain.OrderStatus;
 import com.ajayp.orders.dto.*;
 import com.ajayp.orders.exception.OrderNotFoundException;
 import com.ajayp.orders.repository.OrderRepository;
